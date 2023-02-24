@@ -47,3 +47,4 @@ function sumar (num1, num2){
 }
 let resultado = sumar (3,5);
 console.log(resultado)
+//Comentario prueba git
