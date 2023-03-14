@@ -1,0 +1,26 @@
+condicion = true;
+if(condicion){
+    console.log("La condicion es verdadrera");
+}else{
+    console.log("La condicion es falsa");
+}
+
+if(2>3){
+    console.log("La condicion es verdadrera");
+}else{
+    console.log("La condicion es falsa");
+}
+
+//Ejercicio
+let numero = 3;
+if(numero == 1){
+    console.log("Numero uno")
+}else if(numero == 2){
+    console.log("Numero dos")
+}else if(numero == 3){
+    console.log("Numero tres")
+} else if(numero == 4){
+    console.log("Numero cuatro")
+}else{
+    console.log("Numero desconocido")
+}
